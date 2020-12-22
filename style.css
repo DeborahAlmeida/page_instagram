@@ -1,0 +1,153 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.instagram-wrapper{
+    background-color: #fafafa;
+    height:120vh;
+    display: flex;
+    justify-content: center;
+}
+
+.instagram-continue{
+    margin-top: 40px;
+    margin-left: 20px;
+   
+}
+
+.login{
+    border:0.5px solid rgba(128, 128, 128, 0.432);
+    height:380px;
+    width:350px;
+    background-color: white;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input{
+    height: 34px;
+    width: 252px;
+    background-color: #fafafa;
+    border:0.05px solid #dbdbdb;
+    color: #dbdbdb;
+    margin-bottom: 5px;
+    border-radius: 3px;
+    padding-left: 10px;
+
+}
+
+
+.entrar{
+    background-color: #b2dffc;
+    font-weight: bold;
+    color: white;
+    width:266px;
+    height: 30px;
+    border-style: none;
+    border-radius: 4px;
+    font-size: 14px;
+    margin-top: 6px;
+
+}
+
+.ou{
+    display: flex;
+    margin-top: -10px;
+}
+
+.border{
+    border-top: 1px solid #dbdbdb;
+    height:1px;
+    width:110px;
+    margin: auto 0px;
+}
+
+.text{
+    padding:10px;
+    color: #adadad;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+
+}
+
+.logo{
+    
+    margin: 40px 0px;
+}
+
+
+.img{
+    margin-top: 30px;
+}
+
+
+.logo_face{
+    width: 22px;
+    height:22px;
+    margin-top:10px;
+    margin-right: 4px;
+}
+
+.facebook{
+    display: flex;
+    width:300px;
+    justify-content: center;
+    margin-top: -6px;
+
+}
+
+.facebook_text{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#163470dc;
+    font-size: 14px;
+}
+
+.esqueceu{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-top:3px;
+    color:#163470;
+    padding-bottom: 6px;
+
+}
+.sem_conta{
+    display: flex;
+    justify-content: center;
+    border:0.5px solid rgba(128, 128, 128, 0.432);
+    height: 60px;
+    width:350px;
+    background-color: white;
+    margin-top: 8px;
+
+}
+
+.text_pergunta{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin: auto 0px;
+
+}
+
+.text_cadastrar{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #2e95f6;
+    font-weight: bold;
+    margin: auto 4px;
+
+}
+
+.obter{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+.app{
+    justify-content: center;
+    margin-left: 30px;
+}
